@@ -18,7 +18,6 @@ Feel free to contribute! 🚀
 
 ![Manager Homepage](https://github.com/user-attachments/assets/a853028d-2b94-4ec4-bf46-9cae8145c34d)
 ![Loading Second page](https://github.com/user-attachments/assets/88b22b40-3a66-4fc3-996b-bfb99738122c)
-![Loading page](https://github.com/user-attachments/assets/37f38a9f-2276-448d-b265-2456777b29b2)
 ![Generate Report](https://github.com/user-attachments/assets/c2c96e0e-d4f3-4499-bd4c-8e3daf5f090a)
 ![Edit Student](https://github.com/user-attachments/assets/591152c2-6332-4f28-8e59-5fc710efff35)
 ![Edit Manager](https://github.com/user-attachments/assets/ac20f710-1029-43f4-95e8-752d38432784)
